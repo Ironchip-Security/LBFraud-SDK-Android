@@ -2,8 +2,8 @@
 
 ## Setup
 
-### Suported versions
-| Platform | Suported versions |
+### Supported versions
+| Platform | Supported versions |
 | --- | --- |
 | Android | 5.0.0+ |
     
