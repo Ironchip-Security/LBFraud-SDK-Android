@@ -3,7 +3,15 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-## [1.2.0] - 2022-11-10 - current
+## [1.2.1] - 2022-11-22 - nowadays
+### Added 
+### Changed 
+  - Class name refactorization.
+  - Changed the tags on the logs to match the refactorization.
+  - Fraud constructor no longer supports a url host, it only allow to select the desired environment.
+### Removed 
+
+## [1.2.0] - 2022-10-12 - 2022-11-22
 ### Added
     - Added kernel version into the device properties
     - Debug logs

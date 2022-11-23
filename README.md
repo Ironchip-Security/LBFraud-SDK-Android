@@ -2,8 +2,8 @@
 
 ## Setup
 
-### Suported versions
-| Platform | Suported versions |
+### Supported versions
+| Platform | Supported versions |
 | --- | --- |
 | Android | 5.0.0+ |
     
@@ -32,7 +32,7 @@ Then, inside the *gradle.build* file, add the dependency to the sdk.
 
 dependencies {
     ...
-    implementation 'com.github.Ironchip-Security:LBFraud-SDK-Android:1.2.0'
+    implementation 'com.github.Ironchip-Security:LBFraud-SDK-Android:1.2.1'
     ...
 }
 
