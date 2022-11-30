@@ -32,7 +32,7 @@ Then, inside the *gradle.build* file, add the dependency to the sdk.
 
 dependencies {
     ...
-    implementation 'com.github.Ironchip-Security:LBFraud-SDK-Android:1.2.1'
+    implementation 'com.github.Ironchip-Security:LBFraud-SDK-Android:1.2.2'
     ...
 }
 
@@ -59,13 +59,20 @@ To make full use of the potential of the sdk, the ACCESS_FINE_LOCATION permissio
 [How to request permissions](https://developer.android.com/training/permissions/requesting)
 
 ```java
-import com.ironchip.ironchiplbfraudandroidsdk.LBFraudAndroid;
+import com.ironchip.ironchiplbfraudandroidsdk.LBFraudSDK;
 ...
 
 // Replace APIKEY with the desired generated api key.
-LBFraudAndroid fraud = new LBFraudAndroid(this, "APIKEY");
+LBFraudSDK fraud = new LBFraudSDK(this, "APIKEY");
+// By default our SDK target to the production environment.
 // In case you desire to target a diferent enviroment:
-// LBFraudAndroid fraud = new LBFraudAndroid(this, "APIKEY", "https://[ENVIROMENT].transaction.lbfraud.ironchip.com/transaction");
+// LBFraudSDK fraud = new LBFraudSDK(this, "APIKEY", Environment.Testing);
+
+//public enum Environment {
+//    Production,
+//    Testing,
+//    Development
+//}
 
 String transactionID = "random_identifier_generated"; // Transaction identifier request for fraud results
 String userID = "john.doe@gmail.com"; // User identifier

@@ -3,7 +3,14 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-## [1.2.1] - 2022-11-22 - nowadays
+## [1.2.2] - 2022-11-30 - nowadays
+### Added 
+### Changed 
+  - Fix a bug when not connected to a wifi.
+  - Fix new lines on the encrypted ids.
+  - Improved the emulation detection.
+### Removed 
+## [1.2.1] - 2022-11-22 - 2022-11-30
 ### Added 
 ### Changed 
   - Class name refactorization.
