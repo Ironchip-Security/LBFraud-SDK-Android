@@ -3,7 +3,13 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-## [1.2.3] - 2022-12-09 - nowadays
+## [1.2.4] - 2023-01-10 - nowadays
+### Added 
+### Changed 
+    - Errors during the send transaction callback will now be logged instead of redirected to the exception callback.
+### Removed 
+
+## [1.2.3] - 2022-12-09 - 2023-01-10
 ### Added 
 ### Changed 
     - Fixed issue with the fingerprint id.
