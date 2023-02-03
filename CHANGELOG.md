@@ -3,11 +3,19 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-## [1.2.5] - 2023-01-13 - nowadays
+## [1.2.6] - 2023-02-02 - nowadays
+### Added 
+### Changed 
+  - Changed transaction model to add the requested permissions and if they are granted.
+  - Changed transaction model to add if the gps and wifi providers are enabled.
+### Removed 
+
+## [1.2.5] - 2023-01-13 - 2023-02-02
 ### Added 
 ### Changed 
     - Fixed proguard configuration causing the consumer application to be repackaged into our library internal folder
 ### Removed 
+
 ## [1.2.4] - 2023-01-10 - 2023-01-13
 ### Added 
 ### Changed 
