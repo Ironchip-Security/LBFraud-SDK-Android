@@ -3,7 +3,13 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-## [1.2.7] - 2023-03-15 - nowadays
+## [1.2.8] - 2023-05-12 - nowadays
+### Added 
+  - Added come extra error handlings to prevent the transaction to fail when some build step fails
+### Changed 
+### Removed 
+
+## [1.2.7] - 2023-03-15 - 2023-05-12
 ### Added 
 ### Changed 
   - Changed transaction model to add information about the sim card
