@@ -3,7 +3,16 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-## [1.2.8] - 2023-05-12 - nowadays
+## [Unreleased]
+
+## [1.2.9] - 2023-05-18 - nowadays
+### Added 
+  - Added sdk version into the transaction model
+### Changed 
+ - Previous error handling to allow the creation of the fraud service even if the gps provider is unavailable
+### Removed 
+
+## [1.2.8] - 2023-05-12 - 2023-05-12
 ### Added 
   - Added come extra error handlings to prevent the transaction to fail when some build step fails
 ### Changed 
