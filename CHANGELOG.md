@@ -3,9 +3,13 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-## [Unreleased]
+## [1.2.9.1] - 2023-06-22 - current
+### Added
+### Changed
+    - Updated commons library to apply some bug fixes.
+### Removed
 
-## [1.2.9] - 2023-05-18 - nowadays
+## [1.2.9] - 2023-05-18 - 2023-06-22
 ### Added 
   - Added sdk version into the transaction model
 ### Changed 
@@ -14,7 +18,7 @@ All notable changes to this project will be documented in this file.
 
 ## [1.2.8] - 2023-05-12 - 2023-05-12
 ### Added 
-  - Added come extra error handlings to prevent the transaction to fail when some build step fails
+  - Added come extra error handling to prevent the transaction to fail when some build step fails
 ### Changed 
 ### Removed 
 
