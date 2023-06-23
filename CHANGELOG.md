@@ -3,13 +3,13 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-## [1.2.9.2] - 2023-06-22 - current
+## [1.2.10] - 2023-06-23 - current
 ### Added
 ### Changed
-    - Fixed wrong aar from previous upload.
+    - Updated commons library for additional fixes.
 ### Removed
 
-## [1.2.9.1] - 2023-06-22 - current
+## [1.2.9.1] - 2023-06-22 - 2023-06-23
 ### Added
 ### Changed
     - Updated commons library to apply some bug fixes.
