@@ -10,23 +10,23 @@
     
     <packaging>aar</packaging>
     
-    <!-- <name>Ironchip Fraud SDK</name>
-    <description>This is a sample Android library.</description> -->
+    <name>Ironchip Fraud SDK</name>
+    <description>This is a sample Android library.</description>
       
-    <!-- <developers>
+    <developers>
         <developer>
             <id>ironchip</id>
             <name>Ironchip</name>
         </developer>
-    </developers> -->
+    </developers>
     
-    <!-- <dependencies>
+    <dependencies>
         <dependency>
             <groupId>com.scottyab</groupId>
             <artifactId>rootbeer-lib</artifactId>
             <version>0.1.0</version>
         </dependency>
-    </dependencies> -->
+    </dependencies>
     
     <build>
         <plugins>
