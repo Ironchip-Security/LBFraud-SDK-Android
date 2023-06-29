@@ -1,4 +1,4 @@
 install:
    - FILE="-Dfile=LBFraudAndroidSDK-release.aar"
-   - POMFILE="-Dfile=mypom.xml"
+   - POMFILE="-DpomFile=mypom.xml"
    - mvn install:install-file $FILE $POMFILE
