@@ -3,34 +3,33 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
-    <modelVersion>4.0.0</modelVersion>
+    <!-- <modelVersion>4.0.0</modelVersion> -->
     <groupId>com.ironchip</groupId>
     <artifactId>lbfraudandroidsdk</artifactId>
     <version>1.2.10.4</version>
     
     <packaging>aar</packaging>
     
-    <name>Ironchip Fraud SDK</name>
-    <description>This is a sample Android library.</description>
+    <!-- <name>Ironchip Fraud SDK</name>
+    <description>This is a sample Android library.</description> -->
       
-    <developers>
+    <!-- <developers>
         <developer>
             <id>ironchip</id>
             <name>Ironchip</name>
         </developer>
-    </developers>
+    </developers> -->
     
-    <dependencies>
+    <!-- <dependencies>
         <dependency>
             <groupId>com.scottyab</groupId>
             <artifactId>rootbeer-lib</artifactId>
             <version>0.1.0</version>
         </dependency>
-    </dependencies>
+    </dependencies> -->
     
-    <build>
+    <!-- <build>
         <plugins>
-            <!-- Configure build plugins if necessary -->
         </plugins>
-    </build>
+    </build> -->
 </project>
