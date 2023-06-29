@@ -1,3 +1,4 @@
 install:
    - FILE="-Dfile=LBFraudAndroidSDK-release.aar"
-   - mvn install:install-file $FILE -DgroupId=com.ironchip -DartifactId=lbfraudandroidsdk -Dversion=1.2.10.4 -Dpackaging=aar -DgeneratePom=true
+   - POMFILE="-Dfile=mypom.xml"
+   - mvn install:install-file $FILE $POMFILE
