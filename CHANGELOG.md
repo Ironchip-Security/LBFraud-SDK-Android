@@ -3,7 +3,13 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-## [1.2.10] - 2023-06-23 - current
+## [1.2.11] - 2023-07-05 - current
+### Added
+### Changed
+    - Fixed extradata not being sent.
+### Removed
+
+## [1.2.10] - 2023-06-23 - 2023-07-05
 ### Added
 ### Changed
     - Updated commons library for additional fixes.
