@@ -2,8 +2,15 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
+## [1.2.12] - 2023-09-12 - current
+### Added
+    - Proxy configuration method.
+### Changed
+    - Cipher suites used.
+### Removed
 
-## [1.2.11] - 2023-07-05 - current
+
+## [1.2.11] - 2023-07-05 - 2023-09-12
 ### Added
 ### Changed
     - Fixed extradata not being sent.
