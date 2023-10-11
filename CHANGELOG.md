@@ -2,13 +2,19 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
-## [1.2.12] - 2023-09-12 - current
+## [1.2.13] - 2023-10-11 - current
+### Added
+    - Communication detection
+    - Sim net type (2G,3G,4G,5G)
+### Changed
+### Removed
+
+## [1.2.12] - 2023-09-12 - 2023-10-11
 ### Added
     - Proxy configuration method.
 ### Changed
     - Cipher suites used.
 ### Removed
-
 
 ## [1.2.11] - 2023-07-05 - 2023-09-12
 ### Added
