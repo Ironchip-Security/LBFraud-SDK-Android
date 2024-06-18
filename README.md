@@ -32,7 +32,7 @@ Then, inside the *gradle.build* file, add the dependency to the sdk.
 
 dependencies {
     ...
-    implementation 'com.github.Ironchip-Security:LBFraud-SDK-Android:1.2.11'
+    implementation 'com.github.Ironchip-Security:LBFraud-SDK-Android:1.2.13'
     ...
 }
 
