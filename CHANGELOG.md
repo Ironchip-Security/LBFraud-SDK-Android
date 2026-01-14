@@ -2,7 +2,12 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
-## [1.2.13] - 2023-10-11 - current
+## [1.2.14] - 2023-01-13- current
+### Added
+### Changed
+    - Update commons dependency to 1.0.8
+### Removed
+## [1.2.13] - 2023-10-11 - 2023-01-13
 ### Added
     - Communication detection
     - Sim net type (2G,3G,4G,5G)
