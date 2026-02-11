@@ -51,7 +51,7 @@ This library require the permissions:
 <uses-permission android:name="android.permission.INTERNET" />
 
 <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-<uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+<uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" tools:ignore="QueryAllPackagesPermission" />
 ```
 
 
