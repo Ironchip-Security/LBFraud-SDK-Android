@@ -32,7 +32,7 @@ Then, inside the *gradle.build* file, add the dependency to the sdk.
 
 dependencies {
     ...
-    implementation 'com.github.Ironchip-Security:LBFraud-SDK-Android:1.2.14'
+    implementation 'com.github.Ironchip-Security:LBFraud-SDK-Android:1.2.15'
     ...
 }
 
@@ -49,6 +49,9 @@ This library require the permissions:
 <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
 
 <uses-permission android:name="android.permission.INTERNET" />
+
+<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+<uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
 ```
 
 
