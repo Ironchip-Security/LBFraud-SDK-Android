@@ -2,7 +2,12 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
-## [1.2.14] - 2023-01-13- current
+## [1.2.15] - 2023-02-11 - current
+### Added
+### Changed
+    - Update commons dependency to 1.1.0
+### Removed
+## [1.2.14] - 2023-01-13 - 2023-02-11
 ### Added
 ### Changed
     - Update commons dependency to 1.0.8
