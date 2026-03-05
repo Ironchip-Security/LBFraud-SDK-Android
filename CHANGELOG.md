@@ -2,7 +2,11 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
-## [1.2.18] - 2026-03-05 - current
+## [1.2.19] - 2026-03-05 - current
+### Added
+### Changed
+    - Move JSON generation in thread
+## [1.2.18] - 2026-03-05 - 2026-03-05
 ### Added
 ### Changed
     - Update commons dependency to 1.1.2
