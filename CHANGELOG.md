@@ -2,7 +2,12 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
-## [1.2.17] - 2026-03-02 - current
+## [1.2.18] - 2026-03-05 - current
+### Added
+### Changed
+    - Update commons dependency to 1.1.2
+
+## [1.2.17] - 2026-03-02 - 2026-03-05
 ### Added
 ### Changed
     - Update IDs to the device model
