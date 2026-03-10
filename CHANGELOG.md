@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
+## [1.2.20] - 2026-03-10 - current
+### Changed
+    - Update commons dependency to 1.1.3
+    
 ## [1.2.19] - 2026-03-05 - current
 ### Added
 ### Changed
