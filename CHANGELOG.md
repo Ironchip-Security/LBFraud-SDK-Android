@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
+## [1.2.21] - 2026-06-15 - current
+### Fixed
+    - `sendTransaction` now returns `TransactionException` on network errors instead of a raw `IOException`. Added codes: `NO_CONNECTION_ERROR`, `TIMEOUT_ERROR`, `NETWORK_ERROR`.
+
 ## [1.2.20] - 2026-03-10 - current
 ### Changed
     - Update commons dependency to 1.1.3
