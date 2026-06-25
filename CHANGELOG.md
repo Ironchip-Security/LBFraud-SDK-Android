@@ -2,7 +2,11 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
-## [1.2.21] - 2026-06-15 - current
+## [1.2.21] - 2026-06-25 - current
+### Added
+    - `LBFraudSDK` now accepts `Context` in addition to `Activity` constructors, enabling use from non-Activity contexts (e.g. Services).
+### Changed
+    - Updated commons dependency to `1.1.4`.
 ### Fixed
     - `sendTransaction` now returns `TransactionException` on network errors instead of a raw `IOException`. Added codes: `NO_CONNECTION_ERROR`, `TIMEOUT_ERROR`, `NETWORK_ERROR`.
 
