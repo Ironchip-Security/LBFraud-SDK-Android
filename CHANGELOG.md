@@ -2,7 +2,7 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
-## [1.2.21] - 2026-06-25 - current
+## [1.2.23] - 2026-06-25 - current
 ### Added
     - `LBFraudSDK` now accepts `Context` in addition to `Activity` constructors, enabling use from non-Activity contexts (e.g. Services).
 ### Changed
